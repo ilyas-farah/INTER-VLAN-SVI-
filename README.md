@@ -49,3 +49,4 @@ int g0/0.30
 encapsulation dot1Q 30
 ip address 30.0.0.10 255.0.0.0
 exit
+![CREATING INTER-VLAN TRUNK SWITCH AND ROUTER](https://user-images.githubusercontent.com/106605770/177989445-1d67e262-0868-4a6e-bdcf-062103b1cff8.jpg)
