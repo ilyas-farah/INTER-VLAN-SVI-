@@ -12,7 +12,7 @@ name Finance
 exit
 ------
 
-Accesspoets
+Accessports
 -------------
 int range fa0/1-2
 switchport mode access 
